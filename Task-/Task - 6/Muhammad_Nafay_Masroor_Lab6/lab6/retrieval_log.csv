@@ -1,0 +1,31 @@
+strategy,split,query,top_ids,top_scores,latency_s,answerable
+window0,dev,What is required for illness extensions?,late:0;printer:0;password:0,0.095;0.045;0.000,0.000069,True
+window0,dev,How do I reset a forgotten password?,password:0;assignment:0;contractor:0,0.222;0.056;0.043,0.000031,True
+window0,dev,Where do I upload assignments?,assignment:0;contractor:0;late:0,0.133;0.048;0.000,0.000027,True
+window0,dev,Can contractors work remotely?,contractor:0;late:0;password:0,0.235;0.050;0.000,0.000026,True
+window0,test,What do I do for blank printer pages?,printer:0;contractor:0;late:0,0.200;0.043;0.000,0.000028,True
+window0,test,How can I recover my login access?,contractor:0;late:0;password:0,0.043;0.000;0.000,0.000025,True
+window0,test,How should I hand in my coursework?,late:0;password:0;assignment:0,0.000;0.000;0.000,0.000025,True
+window0,test,What proof is needed when I was ill?,late:0;password:0;assignment:0,0.042;0.000;0.000,0.000025,True
+window0,test,What are tomorrow's flight prices?,late:0;password:0;assignment:0,0.000;0.000;0.000,0.000024,False
+window0,test,Who won the football match?,assignment:0;password:0;late:0,0.062;0.053;0.048,0.000025,False
+window10,dev,What is required for illness extensions?,late:0;printer:0;password:0,0.095;0.045;0.000,0.000026,True
+window10,dev,How do I reset a forgotten password?,password:0;assignment:0;contractor:0,0.222;0.056;0.043,0.000025,True
+window10,dev,Where do I upload assignments?,assignment:0;contractor:0;late:0,0.133;0.048;0.000,0.000045,True
+window10,dev,Can contractors work remotely?,contractor:0;late:0;password:0,0.235;0.050;0.000,0.000023,True
+window10,test,What do I do for blank printer pages?,printer:0;contractor:0;late:0,0.200;0.043;0.000,0.000024,True
+window10,test,How can I recover my login access?,contractor:0;late:0;password:0,0.043;0.000;0.000,0.000023,True
+window10,test,How should I hand in my coursework?,late:0;password:0;assignment:0,0.000;0.000;0.000,0.000024,True
+window10,test,What proof is needed when I was ill?,late:0;password:0;assignment:0,0.042;0.000;0.000,0.000024,True
+window10,test,What are tomorrow's flight prices?,late:0;password:0;assignment:0,0.000;0.000;0.000,0.000022,False
+window10,test,Who won the football match?,assignment:0;password:0;late:0,0.062;0.053;0.048,0.000022,False
+sentence,dev,What is required for illness extensions?,late:0;printer:0;password:0,0.095;0.045;0.000,0.000030,True
+sentence,dev,How do I reset a forgotten password?,password:0;assignment:0;contractor:0,0.222;0.056;0.043,0.000025,True
+sentence,dev,Where do I upload assignments?,assignment:0;contractor:0;late:0,0.133;0.048;0.000,0.000024,True
+sentence,dev,Can contractors work remotely?,contractor:0;late:0;password:0,0.235;0.050;0.000,0.000023,True
+sentence,test,What do I do for blank printer pages?,printer:0;contractor:0;late:0,0.200;0.043;0.000,0.000024,True
+sentence,test,How can I recover my login access?,contractor:0;late:0;password:0,0.043;0.000;0.000,0.000022,True
+sentence,test,How should I hand in my coursework?,late:0;password:0;assignment:0,0.000;0.000;0.000,0.000022,True
+sentence,test,What proof is needed when I was ill?,late:0;password:0;assignment:0,0.042;0.000;0.000,0.000024,True
+sentence,test,What are tomorrow's flight prices?,late:0;password:0;assignment:0,0.000;0.000;0.000,0.000024,False
+sentence,test,Who won the football match?,assignment:0;password:0;late:0,0.062;0.053;0.048,0.000022,False
